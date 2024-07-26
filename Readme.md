@@ -1,6 +1,6 @@
 # Web Scraping Data-Related Roles in AEC Industry
 
-This project focuses on scraping job postings related to data science and other data-centric roles from LinkedIn, specifically targeting companies within the construction sector. The goal is to analyze the demand for data skills in this industry.
+This project focuses on scraping job postings related to data science and other data-centric roles from LinkedIn, specifically targeting companies within the AEC-Industry. The goal is to analyze the demand for data skills in this industry.
 
 ## Table of Contents
 
