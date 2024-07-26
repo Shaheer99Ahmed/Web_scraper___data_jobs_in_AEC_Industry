@@ -80,6 +80,4 @@ To run the scraper and analyze the data, follow these steps:
 - `package-lock.json`: File locking the versions of the project dependencies.
 - `README.md`: This README file.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
