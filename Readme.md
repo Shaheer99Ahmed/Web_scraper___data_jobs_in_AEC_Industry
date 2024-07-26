@@ -12,7 +12,6 @@ This project focuses on scraping job postings related to data science and other 
 6. [Ethical Considerations](#ethical-considerations)
 7. [Usage](#usage)
 8. [Repository Structure](#repository-structure)
-9. [License](#license)
 
 ## Introduction
 
